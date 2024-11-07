@@ -1,1 +1,2 @@
-# Analyzing-Key-Factors-for-Customer-Satisfaction-in-the-Airline-Industry
+# Analyzing Key Factors for Customer Satisfaction in the Airline Industry
+With the increase in competition and changing customer expectations in the airline industry, understanding factors that drive customer satisfaction is very important for airlines to remain competitive in this dynamic industry. This study analyzes airline reviews and ratings data to uncover key factors that impact customer experience. It further explores how these ratings vary by the geographic demographics and also includes a trend analysis of the type of travelers to know segments that companies could target.
